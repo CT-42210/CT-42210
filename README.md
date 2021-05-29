@@ -2,7 +2,7 @@ trolleage is my purpose in life
 @CT-42210_#7968 on discord
 floppa is best
 
-:i:,:::,,:;,,,,:::i;:;;;;;;;;i;ii;;;;;;;;;iinW+;:;::::::::::::#xi:::::::::::;i:i*+nxnnnzz#*i;:;ii;i;;i*;;;:::i;:;::::iii;;;;;;*+i;;;i*ii;***iii;;;;;;;
+```:i:,:::,,:;,,,,:::i;:;;;;;;;;i;ii;;;;;;;;;iinW+;:;::::::::::::#xi:::::::::::;i:i*+nxnnnzz#*i;:;ii;i;;i*;;;:::i;:;::::iii;;;;;;*+i;;;i*ii;***iii;;;;;;;
 ;i;:::::,:;,,,::;;i:,;;::::i;i;;i;;ii;i;;;;;zW#;::::::::::::::#xi::::::::::::i;+nWMMMMxn#++*i;iii;i;;;*;;;;:;i;;i;;;iii;::;;;;*+i;:;;i;;:i**;;;:;;;;;i
 :;;;;:::::i,,,:::i;;,,,,::;*i*iiiii;i;;;;;;;#Wz;::::::::::::::+x*::::::::::::;#MWW@@@@WWMn#*i;iii;i;;i+;:;:::*;:;::::i*i::;:::*+ii;iii;;:i**;;;:;:;:;;
 :;;;;:::::i,,,:::;;i;iiii;;*iiiiii*+#++*ii;;#Wn;::::::::::::::*x*::::::::::::xWWWW@@@@@WWWxn*iiii;i;;;i;;;:::ii;i::;:i*i;;;;;;*+i;;iiiii;***i;;;;:;:;;
@@ -85,9 +85,4 @@ WMMMMMWWMxnzzzzxMWWMMxMMxxMMMxxznxMWWWxnznxxxxxnnnxzzznxxxnxxxxxxnnznnzz###+++++
 WWMMWWMMxxxxnzznnMMMMxxxxxxMMMxnznMW@WMnnxxxxxnzznnxxnxxxxxxxxxxxnnnnxnnn#z+++++++++##z##z#+zxxxxnnxMMMMMxxz#++#######znzzzzzz#####+i...........`.`..,
 xMWMMMMMxxxxxxnnnMMMMxxxxxxxxxxxxnMW@WWxnxxxnz##znnxxxxxxxxnzzzznxxnnMxxMMMnzz#z#+i++#zz##++zznxnnxxMMMMMxxn######z###zzzzzzzz###+#++,.......`..,,:;ii
 nMxxMMMMMMMxxxxnzzxMMMxxxnnnnxxnnxMxW@WWxxxxnz#+zznnnxxxMMxnnz###znnnnxxxxxnz#n#zz*i+*####+#zznxnznxMxMMWWWMxnzzzzz###zzznnzzz#z#####+:.....,,:;iiiiii
-WMMMMWWMMMMxxxnnnnxxxxxnzzzznnnznMMW@@Mxxxnz##zzzznnxxxxxnzznnnzzznnnnxnxxz#+#++*****+#+++##znxnnMxxxxMMWWWMxnnnzzzzzzzzzzzzzzz#####+;.,::;iiiiiiiiiii
-
-<!---
-CT-42210/CT-42210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+WMMMMWWMMMMxxxnnnnxxxxxnzzzznnnznMMW@@Mxxxnz##zzzznnxxxxxnzznnnzzznnnnxnxxz#+#++*****+#+++##znxnnMxxxxMMWWWMxnnnzzzzzzzzzzzzzzz#####+;.,::;iiiiiiiiiii```
