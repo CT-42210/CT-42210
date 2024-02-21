@@ -1,8 +1,5 @@
-trolleage is my purpose in life 
+!['https://ct-42210.github.io']
 
-@CT-42210_#7968 on discord
-
-floppa is best
 
 ```:i:,:::,,:;,,,,:::i;:;;;;;;;;i;ii;;;;;;;;;iinW+;:;::::::::::::#xi:::::::::::;i:i*+nxnnnzz#*i;:;ii;i;;i*;;;:::i;:;::::iii;;;;;;*+i;;;i*ii;***iii;;;;;;;
 ;i;:::::,:;,,,::;;i:,;;::::i;i;;i;;ii;i;;;;;zW#;::::::::::::::#xi::::::::::::i;+nWMMMMxn#++*i;iii;i;;;*;;;;:;i;;i;;;iii;::;;;;*+i;:;;i;;:i**;;;:;;;;;i
