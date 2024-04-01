@@ -1,0 +1,12 @@
+.ubuntu {
+  font-family: 'Ubuntu';
+}
+
+.sourceCodePro {
+  font-family: 'Source Code Pro';
+}
+
+.backgroundDimmer {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.9));
+}
+

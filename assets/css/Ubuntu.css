@@ -1,0 +1,71 @@
+@font-face {
+	font-family: 'Ubuntu';
+	src: url(../../assets/fonts/Ubuntu-bdb39a2122170037b52f7246e06b4a1a.woff2) format('woff2'),
+	url(../../assets/fonts/Ubuntu-dc3d9d646890cf16a62ed777df927148.woff) format('woff');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Ubuntu';
+	src: url(../../assets/fonts/Ubuntu-7de689a35d9c3c662226b7cdf1bb02ad.woff2) format('woff2'),
+	url(../../assets/fonts/Ubuntu-1350d4d4aee347b139a5f37523202ca0.woff) format('woff');
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Ubuntu';
+	src: url(../../assets/fonts/Ubuntu-2e7692c7af4d50e941fe0a4453478337.woff2) format('woff2'),
+	url(../../assets/fonts/Ubuntu-f25fcab1983a8f074c430a42937980cd.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Ubuntu';
+	src: url(../../assets/fonts/Ubuntu-a2a95b7ba76dc0143a73a61c3c7a0601.woff2) format('woff2'),
+	url(../../assets/fonts/Ubuntu-845dc245e197f7e440b87053391c3dd8.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Ubuntu';
+	src: url(../../assets/fonts/Ubuntu-e5f520e1bdaea26ac0da2476ee09cabf.woff2) format('woff2'),
+	url(../../assets/fonts/Ubuntu-1f701b3a16be17b1b81a8ae9bbfd7b4c.woff) format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Ubuntu';
+	src: url(../../assets/fonts/Ubuntu-cbe4df1ef4efda02eaf9cb67ea4caa97.woff2) format('woff2'),
+	url(../../assets/fonts/Ubuntu-61b93b3ebd4646aa92d3118b52389397.woff) format('woff');
+	font-weight: 500;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Ubuntu';
+	src: url(../../assets/fonts/Ubuntu-38aea7df0583f3e48e02145c17ac23e5.woff2) format('woff2'),
+	url(../../assets/fonts/Ubuntu-122f59454a3b4bd40a90671f968a33f8.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Ubuntu';
+	src: url(../../assets/fonts/Ubuntu-c033f41751502af47be46d3d7a90b83c.woff2) format('woff2'),
+	url(../../assets/fonts/Ubuntu-c4ac26abe9de7ba8219c3149ed3465ad.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}

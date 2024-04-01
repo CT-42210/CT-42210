@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Source Code Pro';
+	src: url(../../assets/fonts/Source%20Code%20Pro-cb497aeb9f3bb6f9d1105f7afc94c5c4.woff2) format('woff2'),
+	url(../../assets/fonts/Source%20Code%20Pro-3f17288f63a122952093a1855328224d.woff) format('woff');
+	font-weight: 200;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Source Code Pro';
+	src: url(../../assets/fonts/Source%20Code%20Pro-4da9b27ab8815b5e31bb524ce3ba058d.woff2) format('woff2'),
+	url(../../assets/fonts/Source%20Code%20Pro-cde8b4f765674a24aa8bc4bae1ddaa85.woff) format('woff');
+	font-weight: 200;
+	font-style: italic;
+	font-display: swap;
+}
